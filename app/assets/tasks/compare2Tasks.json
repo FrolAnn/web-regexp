@@ -1,0 +1,9 @@
+{
+	"regex": "/a+/i",
+  "values": [
+	"aaaaaaaa",
+	"aaaaabbbb",
+	"cdsfdfsd",
+	"AAAAAAAA"
+  ]
+}

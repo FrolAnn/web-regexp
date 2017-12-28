@@ -1,0 +1,9 @@
+{
+  "regex": "/a+b*/g",
+  "replace": "TTTTT",
+  "values": [
+    { "value": "aaaaaaaacdsdc", "answer": "TTTTTcdsdc" },
+    { "value": "aaaaabbbb", "answer": "TTTTT" },
+    { "value": "cdsfdfsd", "answer": "cdsfdfsd" }
+  ]
+}
